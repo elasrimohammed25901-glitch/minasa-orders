@@ -1,0 +1,6410 @@
+[
+  {
+    "id": 2073,
+    "ref": "aazayeb",
+    "name": "aazayeb-chefchaouen",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2258,
+    "ref": "abteh",
+    "name": "Abteh-tantan",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1610,
+    "ref": "Afourar",
+    "name": "Afourar - Beni-Mellal",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2028,
+    "ref": "afra",
+    "name": "AFRA-nador",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 37,
+    "ref": "AGA",
+    "name": "Agadir",
+    "deliveredPrice": 35,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1844,
+    "ref": "Agafay",
+    "name": "Agafay",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2130,
+    "ref": "agd",
+    "name": "agdz",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1818,
+    "ref": "Agh",
+    "name": "Aghbal-BERKAN",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1852,
+    "ref": "Agba",
+    "name": "Aghbala-Beni Mellal",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1787,
+    "ref": "Agb",
+    "name": "Aghbalou Nserdan",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1539,
+    "ref": "Agl",
+    "name": "Aglou",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1964,
+    "ref": "Agoi",
+    "name": "Agouim-Ouarzazate",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1574,
+    "ref": "Agou",
+    "name": "Agouray - Meknes",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2225,
+    "ref": "agouram",
+    "name": "Agourram (Ait Amira)-agadir",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1729,
+    "ref": "Ags",
+    "name": "Aguelmous",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2155,
+    "ref": "guidr",
+    "name": "Aguidir-imintanout",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1605,
+    "ref": "agzir",
+    "name": "agzirt Beni-Mellal",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2099,
+    "ref": "ahdil",
+    "name": "Ahdil-chichaoua",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1761,
+    "ref": "AHFR",
+    "name": "AHFIR",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2339,
+    "ref": "MRABAE",
+    "name": "Ahl Marbae - Fquih Ben Salah",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2326,
+    "ref": "SOUSS",
+    "name": "Ahl souss",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2052,
+    "ref": "lglcha",
+    "name": "Ahmar laglalcha-taroudant",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1938,
+    "ref": "aicha",
+    "name": "ain aicha - taounate",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2016,
+    "ref": "allh",
+    "name": "Ain Allah-fes",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2000,
+    "ref": "AND",
+    "name": "Ain Aouda-TEMARA",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1995,
+    "ref": "ATTQ",
+    "name": "AIN ATTIQ-TEMARA",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2255,
+    "ref": "Baita",
+    "name": "Ain Baita-Ouazzane",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2115,
+    "ref": "Beida",
+    "name": "Ain Beida-chichaoua",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1807,
+    "ref": "Bita",
+    "name": "Ain Bita-sefrou",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1570,
+    "ref": "Mathar",
+    "name": "Ain Bni Mathar",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1461,
+    "ref": "Cheg",
+    "name": "Ain Cheggag",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1680,
+    "ref": "Chkf",
+    "name": "Ain Chkef",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2285,
+    "ref": "Choka",
+    "name": "Ain Choka-ksar sghir",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1655,
+    "ref": "Dfa",
+    "name": "Ain Dfali-Ouazzane",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1573,
+    "ref": "Dorij",
+    "name": "Ain Dorij",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1586,
+    "ref": "Mediour",
+    "name": "Ain el Mediour",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2127,
+    "ref": "Erreg",
+    "name": "Aïn Erreggada",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2251,
+    "ref": "Gfali",
+    "name": "Ain Gfali -Ouazzane",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 235,
+    "ref": "AHR",
+    "name": "Ain Harouda",
+    "deliveredPrice": 30,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2316,
+    "ref": "jmarr",
+    "name": "Ain jamaa-errahma",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1660,
+    "ref": "Jem",
+    "name": "Ain Jemaa-meknes",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1662,
+    "ref": "jiri",
+    "name": "Ain jiri-meknes",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 364,
+    "ref": "anl",
+    "name": "ain leuh",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1939,
+    "ref": "mdn",
+    "name": "ain mediouna - taounate",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1749,
+    "ref": "ansbt",
+    "name": "Ain Sbit-Khemisset",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 1
+  },
+  {
+    "id": 1583,
+    "ref": "Seddaq",
+    "name": "Ain Seddaq",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1619,
+    "ref": "Tekki",
+    "name": "Ain Tekki",
+    "deliveredPrice": 35,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1689,
+    "ref": "Zarka",
+    "name": "Ain Zarka",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1882,
+    "ref": "agbl",
+    "name": "aine aghbal-meknes",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2214,
+    "ref": "aala",
+    "name": "AIT AALA-tinghir",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2222,
+    "ref": "abdn",
+    "name": "ait abdoun-boumalen dades",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1883,
+    "ref": "ait",
+    "name": "ait ai3zam-meknes",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1595,
+    "ref": "Aissa",
+    "name": "Ait Aissa Oubrahim",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2238,
+    "ref": "ougms",
+    "name": "Ait Ali Ougmas (Route Ifrane)-Azrou",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2236,
+    "ref": "amerr",
+    "name": "Ait Amer ou Ali (Route Sidi Addi)-Azrou",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1075,
+    "ref": "aita",
+    "name": "AIT AMIRA-AGADIR",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1859,
+    "ref": "Baha",
+    "name": "Ait Baha",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1814,
+    "ref": "Haddou",
+    "name": "Ait Ben Haddou-Ouarzazate",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2209,
+    "ref": "bjn",
+    "name": "Ait Boujan-tinghir",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2211,
+    "ref": "daoun",
+    "name": "Ait Daouen-tinghir",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2210,
+    "ref": "KDI",
+    "name": "Ait El Kadi-tinghir",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1863,
+    "ref": "Hafa",
+    "name": "Aït Hadifa-Al Hoceima",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1585,
+    "ref": "laza",
+    "name": "Ait Iaaza",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1596,
+    "ref": "ihya",
+    "name": "ait ihya omoussa-kelaa magouna",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1837,
+    "ref": "ishq",
+    "name": "Ait ishaq",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1780,
+    "ref": "Kamra",
+    "name": "Ait Kamra-Hoceima",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 49,
+    "ref": "AIL",
+    "name": "Ait Melloul",
+    "deliveredPrice": 35,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2208,
+    "ref": "ojn",
+    "name": "Ait Oujana-tinghir",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1634,
+    "ref": "AiTAO",
+    "name": "Ait ourir-MARRAKECH",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2268,
+    "ref": "tlbb",
+    "name": "AIT TALEB-sefrou",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2235,
+    "ref": "yhy",
+    "name": "Ait Yahya ou Alla (Route Sidi Addi)-Azrou",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1966,
+    "ref": "Zineb",
+    "name": "Ait Zineb-Ouarzazate",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1562,
+    "ref": "Ajd",
+    "name": "Ajdir-HOUCIMA",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1922,
+    "ref": "ajdr",
+    "name": "Ajdir-taza",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2345,
+    "ref": "akchor",
+    "name": "akchour",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1825,
+    "ref": "Feir",
+    "name": "Akhfennir",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1699,
+    "ref": "aka",
+    "name": "Akka-tata",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1821,
+    "ref": "Akl",
+    "name": "Aklim",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1878,
+    "ref": "aknl",
+    "name": "Aknoul-taza",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2077,
+    "ref": "akrach",
+    "name": "akrach-RABAT",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2283,
+    "ref": "ghdbn",
+    "name": "Al Ghadban-jadida",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2218,
+    "ref": "ALHAD",
+    "name": "Al Had (Hay Nahda)-kelaa mgouna",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 55,
+    "ref": "ALC",
+    "name": "Al Hoceima",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2330,
+    "ref": "khlf",
+    "name": "Al Khalifa",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2216,
+    "ref": "maaych",
+    "name": "Al Maayach-kelaa mgouna",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2311,
+    "ref": "ALMAZ",
+    "name": "Almaz-lissasfa",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1546,
+    "ref": "Aln",
+    "name": "Alnif",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1813,
+    "ref": "Amgan",
+    "name": "Amerzgane-Ouarzazate",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2144,
+    "ref": "amskrd",
+    "name": "Ameskroud-agadir",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1765,
+    "ref": "Azmi",
+    "name": "Amizmiz",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2346,
+    "ref": "AMSSA",
+    "name": "AMSSA-TETOUAN",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2319,
+    "ref": "ANSR",
+    "name": "Ansari-dar bouaza",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 963,
+    "ref": "ANZA",
+    "name": "ANZA",
+    "deliveredPrice": 40,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2085,
+    "ref": "ANZI",
+    "name": "ANZI-TIZNIT",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1593,
+    "ref": "Aouf",
+    "name": "Aoufous",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1770,
+    "ref": "Aolz",
+    "name": "Aoulouz",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1549,
+    "ref": "Aou",
+    "name": "Aourir-Agadir",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2146,
+    "ref": "AOUSS",
+    "name": "aousserd-DAKHLA",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1803,
+    "ref": "Arba",
+    "name": "Arba Aounate-أربعاء العونات",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1909,
+    "ref": "ARB",
+    "name": "ARBAOUA",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1622,
+    "ref": "Arjat",
+    "name": "Arjat-Mohammedia",
+    "deliveredPrice": 35,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2282,
+    "ref": "asflou",
+    "name": "Asfalou-ouarzazate",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2110,
+    "ref": "Asif",
+    "name": "Asif lmal-chichaoua",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1898,
+    "ref": "asl",
+    "name": "ASILAH VILLE",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2023,
+    "ref": "asni",
+    "name": "Asni-marrakech",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1827,
+    "ref": "VAssa",
+    "name": "Assa-VILLE",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2087,
+    "ref": "Assahrij",
+    "name": "Assahrij-KELAA DES SRAGHNA",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2113,
+    "ref": "Asseratou",
+    "name": "Asseratou-chichaoua",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1755,
+    "ref": "Attui",
+    "name": "Attaouia",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2266,
+    "ref": "smr",
+    "name": "Ayoun Smar-sefrou",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 523,
+    "ref": "AZM",
+    "name": "AZEMMOUR",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1948,
+    "ref": "AZZZ",
+    "name": "AZILAL VILLE",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1587,
+    "ref": "Azla",
+    "name": "Azla",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2227,
+    "ref": "azro",
+    "name": "Azou (Ikhrban)",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1847,
+    "ref": "AZR",
+    "name": "AZRO-AIT MELLOUL AGADIR",
+    "deliveredPrice": 40,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 327,
+    "ref": "AZ",
+    "name": "AZROU-VILLE",
+    "deliveredPrice": 40,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2265,
+    "ref": "azzaba",
+    "name": "Azzaba-sefrou",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 879,
+    "ref": "BABARD",
+    "name": "Bab Berred",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2259,
+    "ref": "Goghma",
+    "name": "Bab Goghma Ouazzane-",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1709,
+    "ref": "Batz",
+    "name": "Bab Taza",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2303,
+    "ref": "bab tioula",
+    "name": "bab tioula-sidi kacem",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1862,
+    "ref": "Hadifa",
+    "name": "Bani Hadifa-Al Hoceima",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1589,
+    "ref": "Bdouz",
+    "name": "Bdouza",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2342,
+    "ref": "Bjaa",
+    "name": "Bejaad",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1636,
+    "ref": "Bela",
+    "name": "Belaagid",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1342,
+    "ref": "Belf",
+    "name": "Belfaa",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1752,
+    "ref": "BKRI",
+    "name": "BELKSIRI",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1625,
+    "ref": "Bnh",
+    "name": "Ben ahmed-Berrchid",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 601,
+    "ref": "bng",
+    "name": "Ben Guerir",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2015,
+    "ref": "krch",
+    "name": "Ben karich-tetouan",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1977,
+    "ref": "TAY",
+    "name": "BEN TAYEB- DRIOUCH",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2279,
+    "ref": "Yaakoub",
+    "name": "Ben Yaakoub-tata",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2120,
+    "ref": "elouidd",
+    "name": "beni elouida-azilal",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 907,
+    "ref": "BNINSR",
+    "name": "Beni Ensar",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 73,
+    "ref": "BML",
+    "name": "Beni Mellal",
+    "deliveredPrice": 40,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1935,
+    "ref": "bnild",
+    "name": "beni oulid - taounate",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1617,
+    "ref": "Hassa",
+    "name": "Beni-Hassan-Chefchaouen",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 511,
+    "ref": "BSLM",
+    "name": "Benslimane",
+    "deliveredPrice": 35,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2299,
+    "ref": "Ber Taleb",
+    "name": "Ber Taleb-sidi kacem",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1710,
+    "ref": "Bkn",
+    "name": "Berkane",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1558,
+    "ref": "BERR",
+    "name": "BERRECHID VILLE",
+    "deliveredPrice": 35,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1916,
+    "ref": "bhl",
+    "name": "Bhalil-sefrou",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1068,
+    "ref": "BG",
+    "name": "Biougra",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2232,
+    "ref": "Biougra",
+    "name": "Biougra:(Lkhrba)-agadir",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2240,
+    "ref": "Hamou",
+    "name": "Biougra(  Tin Hamou)-agadir",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2237,
+    "ref": "Lghriss",
+    "name": "Biougra( Lghriss)-agadir",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2234,
+    "ref": "Sayh",
+    "name": "Biougra(Ait Sayh)-agadir",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2148,
+    "ref": "GNDZ",
+    "name": "bir gandouz dakhla",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1412,
+    "ref": "Bir",
+    "name": "Bir Jdid",
+    "deliveredPrice": 35,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1870,
+    "ref": "Kouat",
+    "name": "Bir Kouat",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1971,
+    "ref": "TAMTAM",
+    "name": "Bir Tam Tam",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2246,
+    "ref": "birkwat",
+    "name": "Birkwat-safi",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1946,
+    "ref": "bnih",
+    "name": "Bni Ahmed - chefchaouen",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1611,
+    "ref": "Ayat",
+    "name": "Bni Ayat - Beni-Mellal",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1489,
+    "ref": "Boua",
+    "name": "Bni Bouayach",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1861,
+    "ref": "Bofra",
+    "name": "Bni Boufrah-Al Hoceima",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1820,
+    "ref": "Chiker",
+    "name": "Bni Chiker",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2072,
+    "ref": "bnidrkl",
+    "name": "Bni Darkoul-chefchaouen",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1794,
+    "ref": "drd",
+    "name": "Bni Drar",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2239,
+    "ref": "bnmz",
+    "name": "Bni Mezoui-khouribgua",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1620,
+    "ref": "Yakhl",
+    "name": "Bni Yakhlef",
+    "deliveredPrice": 35,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1685,
+    "ref": "bane",
+    "name": "bouanane-tetoun",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2117,
+    "ref": "bnga",
+    "name": "bouanga-chichaoua",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1842,
+    "ref": "ARF",
+    "name": "BOUARFA",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1575,
+    "ref": "Boude",
+    "name": "Bouderbala-MEKNES",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1785,
+    "ref": "Bodn",
+    "name": "Boudnib",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 773,
+    "ref": "BOFK",
+    "name": "BOUFKRANE",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 20
+  },
+  {
+    "id": 1934,
+    "ref": "bhd",
+    "name": "bouhouda - taounate",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1828,
+    "ref": "Bozk",
+    "name": "Bouizakarne-VILLE",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 91,
+    "ref": "BJDR",
+    "name": "Boujdour",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 984,
+    "ref": "bjni",
+    "name": "Boujniba",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1779,
+    "ref": "bouk",
+    "name": "boukidan",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1988,
+    "ref": "BKNDL",
+    "name": "BOUKNADEL",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1690,
+    "ref": "Bol",
+    "name": "Boulanouare",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2131,
+    "ref": "boulman",
+    "name": "Boulemane-azrou",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1531,
+    "ref": "Dades",
+    "name": "Boumaln dads - tinghir",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1138,
+    "ref": "BouM",
+    "name": "Boumia",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1542,
+    "ref": "Boa",
+    "name": "Bounaamane-TIZNIT",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1739,
+    "ref": "Bor",
+    "name": "Bounouar-khouribga",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2193,
+    "ref": "brnzl",
+    "name": "Bournazel-casablanca",
+    "deliveredPrice": 20,
+    "returnedPrice": 0,
+    "refusedPrice": 0
+  },
+  {
+    "id": 421,
+    "ref": "BSK",
+    "name": "BOUSKOURA",
+    "deliveredPrice": 30,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1884,
+    "ref": "bsmd",
+    "name": "Boussmssad-meknes",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 472,
+    "ref": "BZ",
+    "name": "BOUZNIKA",
+    "deliveredPrice": 40,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2335,
+    "ref": "bradi",
+    "name": "Bradia - Fquih Ben Salah",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2242,
+    "ref": "brktln",
+    "name": "Brakt Lamine-safi",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2241,
+    "ref": "brakt",
+    "name": "Brakt Radi-safi",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1902,
+    "ref": "BRY",
+    "name": "Brych-ASILAH",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 271,
+    "ref": "CNG",
+    "name": "Cabo Negro",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2322,
+    "ref": "CASABIS",
+    "name": "Casabis-mediouna",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2178,
+    "ref": "2mars",
+    "name": "Casablanca – 2 Mars",
+    "deliveredPrice": 20,
+    "returnedPrice": 0,
+    "refusedPrice": 0
+  },
+  {
+    "id": 2188,
+    "ref": "brja",
+    "name": "Casablanca – Ain Borja",
+    "deliveredPrice": 20,
+    "returnedPrice": 0,
+    "refusedPrice": 0
+  },
+  {
+    "id": 2180,
+    "ref": "achok",
+    "name": "Casablanca – Ain Chock",
+    "deliveredPrice": 20,
+    "returnedPrice": 0,
+    "refusedPrice": 0
+  },
+  {
+    "id": 2173,
+    "ref": "adiab",
+    "name": "Casablanca – Ain Diab",
+    "deliveredPrice": 20,
+    "returnedPrice": 0,
+    "refusedPrice": 0
+  },
+  {
+    "id": 2184,
+    "ref": "sbaa",
+    "name": "Casablanca – Ain Sebaa",
+    "deliveredPrice": 20,
+    "returnedPrice": 0,
+    "refusedPrice": 0
+  },
+  {
+    "id": 2185,
+    "ref": "anss",
+    "name": "Casablanca – Anassi",
+    "deliveredPrice": 20,
+    "returnedPrice": 0,
+    "refusedPrice": 0
+  },
+  {
+    "id": 2190,
+    "ref": "anfa",
+    "name": "Casablanca – Anfa",
+    "deliveredPrice": 20,
+    "returnedPrice": 0,
+    "refusedPrice": 0
+  },
+  {
+    "id": 2170,
+    "ref": "bsejr",
+    "name": "Casablanca – Beauséjour",
+    "deliveredPrice": 20,
+    "returnedPrice": 0,
+    "refusedPrice": 0
+  },
+  {
+    "id": 2183,
+    "ref": "brns",
+    "name": "Casablanca – Bernoussi",
+    "deliveredPrice": 20,
+    "returnedPrice": 0,
+    "refusedPrice": 0
+  },
+  {
+    "id": 2172,
+    "ref": "rgon",
+    "name": "Casablanca – Bourgogne",
+    "deliveredPrice": 20,
+    "returnedPrice": 0,
+    "refusedPrice": 0
+  },
+  {
+    "id": 2181,
+    "ref": "calif",
+    "name": "Casablanca – Californie",
+    "deliveredPrice": 20,
+    "returnedPrice": 0,
+    "refusedPrice": 0
+  },
+  {
+    "id": 2174,
+    "ref": "ctrville",
+    "name": "Casablanca – Centre Ville",
+    "deliveredPrice": 20,
+    "returnedPrice": 0,
+    "refusedPrice": 0
+  },
+  {
+    "id": 2175,
+    "ref": "domar",
+    "name": "Casablanca – Derb Omar",
+    "deliveredPrice": 20,
+    "returnedPrice": 0,
+    "refusedPrice": 0
+  },
+  {
+    "id": 2176,
+    "ref": "dseltan",
+    "name": "Casablanca – Derb Sultan",
+    "deliveredPrice": 20,
+    "returnedPrice": 0,
+    "refusedPrice": 0
+  },
+  {
+    "id": 2182,
+    "ref": "hssnI",
+    "name": "Casablanca – Hay Hassani",
+    "deliveredPrice": 20,
+    "returnedPrice": 0,
+    "refusedPrice": 0
+  },
+  {
+    "id": 2187,
+    "ref": "mhmd",
+    "name": "Casablanca – Hay Mohammadi",
+    "deliveredPrice": 20,
+    "returnedPrice": 0,
+    "refusedPrice": 0
+  },
+  {
+    "id": 2166,
+    "ref": "lssf",
+    "name": "Casablanca – Lissasfa",
+    "deliveredPrice": 20,
+    "returnedPrice": 0,
+    "refusedPrice": 0
+  },
+  {
+    "id": 2179,
+    "ref": "maarif",
+    "name": "Casablanca – Maarif",
+    "deliveredPrice": 20,
+    "returnedPrice": 0,
+    "refusedPrice": 0
+  },
+  {
+    "id": 2167,
+    "ref": "mrachid",
+    "name": "Casablanca – Moulay Rachid",
+    "deliveredPrice": 20,
+    "returnedPrice": 0,
+    "refusedPrice": 0
+  },
+  {
+    "id": 2171,
+    "ref": "ouasis",
+    "name": "Casablanca – Ouasis",
+    "deliveredPrice": 20,
+    "returnedPrice": 0,
+    "refusedPrice": 0
+  },
+  {
+    "id": 2177,
+    "ref": "olf",
+    "name": "Casablanca – Oulfa",
+    "deliveredPrice": 20,
+    "returnedPrice": 0,
+    "refusedPrice": 0
+  },
+  {
+    "id": 2189,
+    "ref": "rchnr",
+    "name": "Casablanca – Roches Noires",
+    "deliveredPrice": 20,
+    "returnedPrice": 0,
+    "refusedPrice": 0
+  },
+  {
+    "id": 2169,
+    "ref": "sbata",
+    "name": "Casablanca – Sbata",
+    "deliveredPrice": 20,
+    "returnedPrice": 0,
+    "refusedPrice": 0
+  },
+  {
+    "id": 2165,
+    "ref": "mrof",
+    "name": "Casablanca – Sidi Maarouf",
+    "deliveredPrice": 20,
+    "returnedPrice": 0,
+    "refusedPrice": 0
+  },
+  {
+    "id": 2186,
+    "ref": "MMN",
+    "name": "Casablanca – Sidi Moumen",
+    "deliveredPrice": 20,
+    "returnedPrice": 0,
+    "refusedPrice": 0
+  },
+  {
+    "id": 2168,
+    "ref": "sotmn",
+    "name": "Casablanca – Sidi Othmane",
+    "deliveredPrice": 20,
+    "returnedPrice": 0,
+    "refusedPrice": 0
+  },
+  {
+    "id": 2323,
+    "ref": "casadia",
+    "name": "Casadia-daroua",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2156,
+    "ref": "cntr",
+    "name": "centre 44 - marrakech",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2340,
+    "ref": "CHAGAR",
+    "name": "Chagar - Béni Mellal",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1804,
+    "ref": "Chai",
+    "name": "Chaibate-el jadida",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2264,
+    "ref": "chbka",
+    "name": "Chbika-tantan",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 583,
+    "ref": "chf",
+    "name": "Chefchaouen",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1145,
+    "ref": "CHELLAL",
+    "name": "CHELLALAT",
+    "deliveredPrice": 35,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1648,
+    "ref": "wch",
+    "name": "Chichaoua-VILLE",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2318,
+    "ref": "CHLH",
+    "name": "Chlihat-dar bouaza",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2290,
+    "ref": "Chnafa",
+    "name": "Chnafa-sidi yahya",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1641,
+    "ref": "Chotr",
+    "name": "Chouiter",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1616,
+    "ref": "CHRA",
+    "name": "CHRAFAT-Chefchaouen",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 103,
+    "ref": "DAK",
+    "name": "Dakhla",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1959,
+    "ref": "dly",
+    "name": "Daliya_ksar sghir",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 415,
+    "ref": "DR",
+    "name": "DAR BOUAZZA",
+    "deliveredPrice": 35,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1854,
+    "ref": "Amri",
+    "name": "Dar el Amri-Sidi Sliman",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2010,
+    "ref": "DRGDR",
+    "name": "DAR EL GADARI",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2226,
+    "ref": "jddi",
+    "name": "Dar El Jadida-souk larbaa",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1978,
+    "ref": "DRK",
+    "name": "DAR EL KABDANI-DRIOUCH",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1602,
+    "ref": "Zidouh",
+    "name": "Dar Ould Zidouh",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2306,
+    "ref": "DAR16",
+    "name": "Dar16-errahma",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 493,
+    "ref": "DRW",
+    "name": "DAROUA",
+    "deliveredPrice": 35,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2292,
+    "ref": "daya",
+    "name": "dayat aicha -sidi yahya",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1715,
+    "ref": "dch",
+    "name": "dcheira",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2121,
+    "ref": "DBDO",
+    "name": "DEBDOU",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1756,
+    "ref": "Dente",
+    "name": "Demnate",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1930,
+    "ref": "chefdrd",
+    "name": "Derdara-Chefchaouen",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2069,
+    "ref": "drdr",
+    "name": "Derdara-taroudant",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1905,
+    "ref": "DGH",
+    "name": "Dghaliyn-ASILAH",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1958,
+    "ref": "diki",
+    "name": "Diki_ksar sghir",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1661,
+    "ref": "Dkh",
+    "name": "Dkhissa-meknes",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2203,
+    "ref": "Dllhaa",
+    "name": "Dlalha",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1673,
+    "ref": "Baiz",
+    "name": "Douar Boumaiz",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2108,
+    "ref": "jda",
+    "name": "Douar jdida-chichaoua",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2219,
+    "ref": "douarlrb",
+    "name": "douar larab(ait amira)-agadir",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2047,
+    "ref": "KST",
+    "name": "DOUAR LKASIT-NADOR",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2046,
+    "ref": "fellah",
+    "name": "Douar Rja Fellah-nador",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2105,
+    "ref": "omara",
+    "name": "Douar si omara-chichaoua",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2021,
+    "ref": "douar",
+    "name": "douar Zliligue-fes",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2017,
+    "ref": "DOUY",
+    "name": "Douiyat-fes",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1328,
+    "ref": "Drar",
+    "name": "Drarga",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1974,
+    "ref": "DRIO",
+    "name": "DRIOUCH VILLE",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2142,
+    "ref": "ACM",
+    "name": "Echammaia-youssoufia",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1858,
+    "ref": "aoama",
+    "name": "El aouama-tanger",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2147,
+    "ref": "ARGB",
+    "name": "el argoub-dakhla",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1734,
+    "ref": "Borj",
+    "name": "El Borj-KHENIFRA",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2198,
+    "ref": "brjj",
+    "name": "El Borouj ville",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2054,
+    "ref": "boura",
+    "name": "El boura-taroudant",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1627,
+    "ref": "Gara",
+    "name": "El Gara-Berrchid",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1894,
+    "ref": "LHAL",
+    "name": "EL HALHAL MEDIOUNA",
+    "deliveredPrice": 35,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2053,
+    "ref": "houmer",
+    "name": "El houmer-taroudant",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 109,
+    "ref": "EJD",
+    "name": "El Jadida",
+    "deliveredPrice": 35,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2271,
+    "ref": "Johra",
+    "name": "El Johra-Ouazzane",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1731,
+    "ref": "Kebb",
+    "name": "El Kebab-KHENIFRA",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2333,
+    "ref": "kotma",
+    "name": "El Kotma - Béni Mellal",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1601,
+    "ref": "Ksiba",
+    "name": "El Ksiba - Beni-Mellal",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1543,
+    "ref": "Maader",
+    "name": "El Maader El Kabir-TIZNIT",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1243,
+    "ref": "souria",
+    "name": "El Mansouria",
+    "deliveredPrice": 35,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1969,
+    "ref": "MZ",
+    "name": "El Menzel - Sefrou",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1791,
+    "ref": "ATIA",
+    "name": "El Ouatia",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2308,
+    "ref": "FAJR",
+    "name": "Elfajr-errahma",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1363,
+    "ref": "ajeb",
+    "name": "ElHajeb VILLE",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1257,
+    "ref": "ARRE",
+    "name": "Erfoud VILLE",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 607,
+    "ref": "ERR",
+    "name": "ERRACHIDIA",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 0
+  },
+  {
+    "id": 403,
+    "ref": "ER",
+    "name": "ERRAHMA VILLE",
+    "deliveredPrice": 30,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1728,
+    "ref": "ESRW",
+    "name": "Essaouira الصويرة",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1792,
+    "ref": "mara",
+    "name": "Essemara-السمارة",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1967,
+    "ref": "ezz",
+    "name": "Ezzhiliga",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1701,
+    "ref": "Hisn",
+    "name": "Fam El Hisn-tata",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1819,
+    "ref": "ferkh",
+    "name": "ferkhana-nador",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 127,
+    "ref": "FES",
+    "name": "Fes",
+    "deliveredPrice": 35,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1841,
+    "ref": "FIG",
+    "name": "FIGUIG",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 133,
+    "ref": "FNI",
+    "name": "Fnideq",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2107,
+    "ref": "forina",
+    "name": "Forina-chichaoua",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1951,
+    "ref": "FMJMA",
+    "name": "foum jamaa-Azilal",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1741,
+    "ref": "Oudi",
+    "name": "Foum Oudi-زاوية",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1700,
+    "ref": "Zgd",
+    "name": "Foum Zguid",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1881,
+    "ref": "Frt",
+    "name": "Fouwarat-meknes",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2324,
+    "ref": "rfg",
+    "name": "fquih ben saleh",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2088,
+    "ref": "Fraita",
+    "name": "Fraita-kelaa des sraghna",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1942,
+    "ref": "galaz",
+    "name": "galaz - taounate",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1580,
+    "ref": "Gfif",
+    "name": "Gfifat",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1920,
+    "ref": "ghfs",
+    "name": "Ghafsai",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2162,
+    "ref": "ghmat",
+    "name": "Ghmat-marrakech",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1632,
+    "ref": "Gouass",
+    "name": "Gouassem-VILLE",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1286,
+    "ref": "Goul",
+    "name": "Goulmima-errachidia",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1788,
+    "ref": "grma",
+    "name": "Gourrama",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2304,
+    "ref": "grinat",
+    "name": "grinat-sidi kacem",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1824,
+    "ref": "Glj",
+    "name": "Guelmim-ville",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1873,
+    "ref": "grcf",
+    "name": "Guercif",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2149,
+    "ref": "GRG",
+    "name": "guerguerat-DAKHLA",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1723,
+    "ref": "Ggu",
+    "name": "Guigou-Azrou",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1683,
+    "ref": "Gui",
+    "name": "Guisser-settat",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1839,
+    "ref": "had",
+    "name": "Had bouhssoussen",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2243,
+    "ref": "hddra",
+    "name": "Had Dra-safi",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1868,
+    "ref": "Draa",
+    "name": "Had Draa",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1556,
+    "ref": "Hrara",
+    "name": "Had Hrara-SAFI",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1572,
+    "ref": "Kourt",
+    "name": "Had Kourt",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1900,
+    "ref": "GHRB",
+    "name": "Had lgharbiya-ASILAH",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1911,
+    "ref": "WAISSA",
+    "name": "Had Oulad Aissa",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 724,
+    "ref": "HDS",
+    "name": "had soualem",
+    "deliveredPrice": 35,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1569,
+    "ref": "FRAJ",
+    "name": "HAD WLAD FRAJ",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2135,
+    "ref": "Hdd",
+    "name": "Hadada – Youssoufia",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2005,
+    "ref": "TZI",
+    "name": "Hadd Ouled Jelloul-TAZI",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1943,
+    "ref": "hajria",
+    "name": "hajria - taounate",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2080,
+    "ref": "hrtmrbt",
+    "name": "Harat el morabitine-tinghir",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1996,
+    "ref": "HRH",
+    "name": "HARHOURA",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1737,
+    "ref": "Hate",
+    "name": "Hattane-Khouribga",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2295,
+    "ref": "helalia",
+    "name": "helalia-sidi yahya",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1321,
+    "ref": "Hou",
+    "name": "Houara",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2275,
+    "ref": "idlsan",
+    "name": "Idlsan-ouarzazate",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2043,
+    "ref": "IEASSEN",
+    "name": "IEASSEN-nador",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 333,
+    "ref": "IF",
+    "name": "IFRAN",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2195,
+    "ref": "ighld",
+    "name": "ighloud-echemmaia",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2039,
+    "ref": "ghmr",
+    "name": "IGHMARIYIN-nador",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1606,
+    "ref": "ighram",
+    "name": "ighram laalam-beni mellal",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2060,
+    "ref": "ighrm",
+    "name": "ighram-taroudant",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1965,
+    "ref": "ighem",
+    "name": "ighrem Nougdal-Ouarzazate",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2031,
+    "ref": "hddn",
+    "name": "IHDADEN-nador",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2278,
+    "ref": "Iligh",
+    "name": "Iligh-tata",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2034,
+    "ref": "mchrb",
+    "name": "IMACHROUBEN-nador",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2035,
+    "ref": "mhrfn",
+    "name": "IMEHARFEN-nador",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2277,
+    "ref": "IMGHRN",
+    "name": "Imghran-ouarzazate",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1598,
+    "ref": "Img",
+    "name": "Imgon-Tinghir",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2013,
+    "ref": "ouddr",
+    "name": "Imi Ouaddar-agadir",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2092,
+    "ref": "iminifri",
+    "name": "iminifri - kelaa des sraghna",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2151,
+    "ref": "Imnt",
+    "name": "Iminitanoute",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2274,
+    "ref": "Imitk",
+    "name": "Imitk-tata",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 339,
+    "ref": "IMZ",
+    "name": "IMOUZAR KANDRE",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2132,
+    "ref": "immzzr",
+    "name": "imouzzar marmoucha-azrou",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2123,
+    "ref": "imso",
+    "name": "imsouane-agadir",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1482,
+    "ref": "Imzm",
+    "name": "imzouren",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2143,
+    "ref": "INCH",
+    "name": "Inchaden-agadir",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 151,
+    "ref": "INZ",
+    "name": "Inzegane",
+    "deliveredPrice": 35,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2307,
+    "ref": "Iraki",
+    "name": "Iraki-errahma",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2033,
+    "ref": "skkjn",
+    "name": "ISAKKAJEN-nador",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1702,
+    "ref": "Issa",
+    "name": "Issafen-tata",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1692,
+    "ref": "Isgue",
+    "name": "Issaguen",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2223,
+    "ref": "issen",
+    "name": "Issen (Drarga – Route Houara)-agadir",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1786,
+    "ref": "Itzer",
+    "name": "ITZER",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2029,
+    "ref": "jaad",
+    "name": "JAADAR-nador",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1618,
+    "ref": "jamaat",
+    "name": "jamaat fdala",
+    "deliveredPrice": 35,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1784,
+    "ref": "foko",
+    "name": "Jamaat foko-Berrchid",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2096,
+    "ref": "jmaat",
+    "name": "Jamaat larracha - Kelaâ des Sraghna",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2315,
+    "ref": "JAMAT",
+    "name": "Jamaat melilla-bensliman",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1778,
+    "ref": "Riah",
+    "name": "Jamaat Riah-Berrchid",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 427,
+    "ref": "JMS",
+    "name": "Jamaat shaim",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2075,
+    "ref": "jaqma",
+    "name": "Jaqma-berrchid",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1925,
+    "ref": "Jha",
+    "name": "JEBHA",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2331,
+    "ref": "MRB",
+    "name": "Jemaa ahl merbaa",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2231,
+    "ref": "jmaa",
+    "name": "Jemâa El Houdrane-khemisset",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1384,
+    "ref": "Jer",
+    "name": "Jerada",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1903,
+    "ref": "JL",
+    "name": "Jilaliya-ASILAH",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2253,
+    "ref": "Bni Kola",
+    "name": "Jmaâat Bni Kola-Ouazzane",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2263,
+    "ref": "jmat",
+    "name": "Jmaât Ben Khlil-tantan",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2267,
+    "ref": "Beni Oual",
+    "name": "Jmaât Beni Oual-Ouazzane",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2262,
+    "ref": "Brikcha",
+    "name": "Jmaât Brikcha-Ouazzane",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2344,
+    "ref": "mouqrissat",
+    "name": "Jmaât mouqrissat-ouazzan",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2317,
+    "ref": "JAMAIA",
+    "name": "Jmaiaa-bouskoura",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1571,
+    "ref": "Jorf",
+    "name": "Jorf El Melha-OUZZANE",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1564,
+    "ref": "sefar",
+    "name": "Jorf Sefar",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2160,
+    "ref": "jrf",
+    "name": "Jorf-erfoud",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2093,
+    "ref": "jwala",
+    "name": "Jwala-kelaa des sraghna",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1687,
+    "ref": "Kabi",
+    "name": "Kabila",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2048,
+    "ref": "KCHD",
+    "name": "KACHADIA-NADOR",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2294,
+    "ref": "kachla",
+    "name": "Kachla-sidi yahya",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1732,
+    "ref": "Nsours",
+    "name": "Kaf Nsour-KHENIRA",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1989,
+    "ref": "KMN",
+    "name": "kamouni",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1933,
+    "ref": "kntr",
+    "name": "kantra askar - taounate",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1555,
+    "ref": "Arkman",
+    "name": "Kariat Arkman‎-Nador",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1468,
+    "ref": "Kariat",
+    "name": "Kariat Ba Mohamed",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 157,
+    "ref": "KAS",
+    "name": "Kasba Tadla",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2081,
+    "ref": "ksb",
+    "name": "Kasba tadla-oulad yaich-benimellal",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2082,
+    "ref": "ysssf",
+    "name": "Kasba tadla-oulad youssef-beni mellal",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1578,
+    "ref": "Taher",
+    "name": "Kasbah El Taher",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1980,
+    "ref": "KASITA",
+    "name": "Kasita-DRIOUCH",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1754,
+    "ref": "Srgn",
+    "name": "Kelâa des Sraghna",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1391,
+    "ref": "Gouna",
+    "name": "Kelâat M Gouna-قلعة امڭونة",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 949,
+    "ref": "KLIAA",
+    "name": "KELIAA",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1089,
+    "ref": "KNVI",
+    "name": "KENITRA VILLE",
+    "deliveredPrice": 35,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2025,
+    "ref": "KTM",
+    "name": "Ketama-houcima",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1929,
+    "ref": "khmdq",
+    "name": "Khamis M Diq-chefchaouen",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2065,
+    "ref": "khdr",
+    "name": "Khdadra-ksar el kbir",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2224,
+    "ref": "dadess",
+    "name": "Khemis Dades -boumalen dades",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2220,
+    "ref": "khmsd",
+    "name": "Khemis Dades -kelaa mgouna",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2250,
+    "ref": "khmsskl",
+    "name": "Khemis Meskala-Essaouira",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1669,
+    "ref": "Sah",
+    "name": "Khemis Sahel",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1750,
+    "ref": "zmmr",
+    "name": "khemis zemamra",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1271,
+    "ref": "Khem",
+    "name": "Khemisset ville",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1671,
+    "ref": "Khei",
+    "name": "Khenichet-SIDI KACEM",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1711,
+    "ref": "khnf",
+    "name": "KHENIFRA VILLE",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1932,
+    "ref": "khllf",
+    "name": "Khlalfa-Taounate",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2139,
+    "ref": "KHNOUFA",
+    "name": "Khnoufa – Youssoufia",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 169,
+    "ref": "KHO",
+    "name": "Khouribga",
+    "deliveredPrice": 40,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2140,
+    "ref": "Khwalqa",
+    "name": "Khwalqa – Youssoufia",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2070,
+    "ref": "KHZN",
+    "name": "khzana-chefchaouen",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1805,
+    "ref": "Koua",
+    "name": "Kouassem-el jadida",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2254,
+    "ref": "krimat",
+    "name": "Krimat-essaouira",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1908,
+    "ref": "KS",
+    "name": "Ksar El Kebir",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2287,
+    "ref": "Lmajaz",
+    "name": "Ksar Lmajaz- ksar Sghir",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1919,
+    "ref": "ksrss",
+    "name": "ksar sghir",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1889,
+    "ref": "kdr",
+    "name": "Kwidar-meknes",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2328,
+    "ref": "laajan",
+    "name": "Laajana",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1990,
+    "ref": "LRJT",
+    "name": "LAARJATE",
+    "deliveredPrice": 40,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 886,
+    "ref": "AROUI",
+    "name": "LAAROUI",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2125,
+    "ref": "Lata",
+    "name": "Laâtamna",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2094,
+    "ref": "laatmn",
+    "name": "Laâtamna-kelaa des sraghna",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1832,
+    "ref": "PLYA",
+    "name": "LAAYOUNE-PLAYA",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1831,
+    "ref": "PRT",
+    "name": "LAAYOUNE-PORT",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1830,
+    "ref": "Layn",
+    "name": "Laayoune-ville",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2309,
+    "ref": "LBSS",
+    "name": "Labissa-bouskoura",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2305,
+    "ref": "labza",
+    "name": "Labza-sidi kacem",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2329,
+    "ref": "lhlm",
+    "name": "Lahlalma",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2192,
+    "ref": "hrouin",
+    "name": "Lahraouyine-casablanca",
+    "deliveredPrice": 20,
+    "returnedPrice": 0,
+    "refusedPrice": 0
+  },
+  {
+    "id": 1906,
+    "ref": "Lakhsa",
+    "name": "Lakhssas",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2111,
+    "ref": "lallaazz",
+    "name": "Lalla aziza-chichaoua",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2291,
+    "ref": "Bṭoul",
+    "name": "Lalla btoul / Lwzar (sidi yahya)",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1588,
+    "ref": "Fatna",
+    "name": "Lalla Fatna",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1753,
+    "ref": "MIMNA",
+    "name": "Lalla Mimouna",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1766,
+    "ref": "Take",
+    "name": "Lalla Takerkoust",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2129,
+    "ref": "Lamriss",
+    "name": "Lamriss",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1599,
+    "ref": "Laoua",
+    "name": "Laouamra",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 187,
+    "ref": "LAR",
+    "name": "Larache",
+    "deliveredPrice": 40,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1398,
+    "ref": "Aion",
+    "name": "Layoun cherkia-العيون الشرقية",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1733,
+    "ref": "Lehri",
+    "name": "Lehri-KHENIFRA",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2296,
+    "ref": "Lghyabat",
+    "name": "Lghyabat-sidi sliman",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 801,
+    "ref": "HJK",
+    "name": "LHAJ KADOUR VILLE",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 20
+  },
+  {
+    "id": 1567,
+    "ref": "Lhawz",
+    "name": "Lhawzia-JADIDA",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2091,
+    "ref": "lhmadna",
+    "name": "Lhmadna-kelaa des sraghna",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2310,
+    "ref": "LILAS",
+    "name": "Lilasparck-bouskoura",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1893,
+    "ref": "khyay",
+    "name": "lkhyayta-had soualem",
+    "deliveredPrice": 35,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2154,
+    "ref": "Mkn",
+    "name": "Lmakina-imintanout",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 794,
+    "ref": "lMH",
+    "name": "LMHAYA",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2159,
+    "ref": "mnbh",
+    "name": "lmnabha-marrakech",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1955,
+    "ref": "lmnr",
+    "name": "Lmnar Park-ksar sghir",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2297,
+    "ref": "Lmssada",
+    "name": "Lmssada-sidi sliman",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2032,
+    "ref": "lmml",
+    "name": "LOMMAL-nador",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2137,
+    "ref": "louihat",
+    "name": "Louihat – Youssoufia",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1561,
+    "ref": "Loui",
+    "name": "Louizia",
+    "deliveredPrice": 35,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1890,
+    "ref": "lzn",
+    "name": "Lozin-meknes",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 193,
+    "ref": "MDQ",
+    "name": "M Diq",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1991,
+    "ref": "MAAMRA",
+    "name": "MAAMORA",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1544,
+    "ref": "Mzi",
+    "name": "Maaziz",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2163,
+    "ref": "mdgh",
+    "name": "Madagh-berkane",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1904,
+    "ref": "MGH",
+    "name": "Marghouba-ASILAH",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1686,
+    "ref": "smir",
+    "name": "marina smir",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 199,
+    "ref": "MRK",
+    "name": "Marrakech",
+    "deliveredPrice": 35,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 205,
+    "ref": "MAM",
+    "name": "Martil",
+    "deliveredPrice": 40,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1768,
+    "ref": "Marz",
+    "name": "Marzouga",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1656,
+    "ref": "Mas",
+    "name": "Masmouda - Ouazzane",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2001,
+    "ref": "Msasa",
+    "name": "Massa",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2014,
+    "ref": "mssa",
+    "name": "massa chtouka-agadir",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1565,
+    "ref": "Maza",
+    "name": "Mazagan",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2126,
+    "ref": "MDA",
+    "name": "MDAR",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 571,
+    "ref": "MEDA",
+    "name": "Mediouna",
+    "deliveredPrice": 35,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1082,
+    "ref": "meh",
+    "name": "MEHDIA",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1096,
+    "ref": "MHDV",
+    "name": "MEHDIA VILLE",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2152,
+    "ref": "mjjt",
+    "name": "Mejjat-imintanout",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1846,
+    "ref": "Mejte",
+    "name": "Mejjat-meknes",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 211,
+    "ref": "MEK",
+    "name": "Meknes",
+    "deliveredPrice": 35,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2150,
+    "ref": "MLJW",
+    "name": "MELJAW-ASILAH",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1999,
+    "ref": "MRSKH",
+    "name": "MERS EL KHIR",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1945,
+    "ref": "mezraoua",
+    "name": "mezraoua - taounate",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1131,
+    "ref": "MHa",
+    "name": "MHamid El Ghizlane",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1975,
+    "ref": "MIDA",
+    "name": "Midar-Driouch",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 535,
+    "ref": "MDL",
+    "name": "MIDELT",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1623,
+    "ref": "Mimos",
+    "name": "Mimosa-mohammedia",
+    "deliveredPrice": 35,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1782,
+    "ref": "mirl",
+    "name": "mirleft",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1264,
+    "ref": "Miss",
+    "name": "Missour",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2252,
+    "ref": "mjji",
+    "name": "Mji (entre Hanchan et Tafdacht)-essaouira",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1895,
+    "ref": "KAN",
+    "name": "MKANSA-MEDIOUNA",
+    "deliveredPrice": 35,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2007,
+    "ref": "MGRN",
+    "name": "Mograne-TAZI",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 345,
+    "ref": "MH",
+    "name": "Mohammedia",
+    "deliveredPrice": 35,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 787,
+    "ref": "MLDRI",
+    "name": "MOLY DRISSE ZARHOUNE",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 20
+  },
+  {
+    "id": 2247,
+    "ref": "mlbrg",
+    "name": "MOUL EL BERGUI-safi",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 529,
+    "ref": "MLY",
+    "name": "MOULAY ABDELLAH",
+    "deliveredPrice": 40,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1840,
+    "ref": "ML",
+    "name": "Moulay bouazza khenifra",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2202,
+    "ref": "Bslhmm",
+    "name": "Moulay Bouselham",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1440,
+    "ref": "Yaa",
+    "name": "Moulay Yaâcoub",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1720,
+    "ref": "Mrirt",
+    "name": "Mrirt Ville",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1712,
+    "ref": "mrie",
+    "name": "Mrirte",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1566,
+    "ref": "Raso",
+    "name": "Msawar Raso",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1597,
+    "ref": "Msemr",
+    "name": "Msemrir-Tinghir",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2256,
+    "ref": "msseyed",
+    "name": "Msseyed-tantan",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2314,
+    "ref": "MZABI",
+    "name": "Mzabiyin-bouskoura",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2153,
+    "ref": "mzoda",
+    "name": "mzouda-imintanout",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1736,
+    "ref": "Mzdi",
+    "name": "Mzoudia",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 217,
+    "ref": "NAD",
+    "name": "Nador",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2109,
+    "ref": "Nfifa",
+    "name": "Nfifa-chichaoua",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1760,
+    "ref": "nkob",
+    "name": "NKob Zagora",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 433,
+    "ref": "NSR",
+    "name": "Nouaceur",
+    "deliveredPrice": 35,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2058,
+    "ref": "nouail",
+    "name": "nouail-taroudant",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2114,
+    "ref": "Nsser",
+    "name": "Nowasser-chichaoua",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1956,
+    "ref": "nw",
+    "name": "Nwinwich_ksar sghir",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1886,
+    "ref": "nzl",
+    "name": "Nzala-meknes",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2061,
+    "ref": "nzlt",
+    "name": "nzalat laadam-benguerir",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2097,
+    "ref": "nzalat",
+    "name": "Nzalat Laadam-benguerir",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1639,
+    "ref": "Ouaha",
+    "name": "Ouahat Sidi Brahim",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2040,
+    "ref": "ohdn",
+    "name": "OUAHDANA-nador",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1300,
+    "ref": "OULM",
+    "name": "OUALMES VILLE",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1950,
+    "ref": "OUAOUI",
+    "name": "ouaouizeght-AZILAL",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1838,
+    "ref": "ouaoumana",
+    "name": "Ouaoumana",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 223,
+    "ref": "OUZ",
+    "name": "Ouarzazat",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1040,
+    "ref": "OZN",
+    "name": "Ouazzane",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1560,
+    "ref": "OUDAY",
+    "name": "OUDAYA-Marrakech",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1876,
+    "ref": "od",
+    "name": "Oued Amlil",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1688,
+    "ref": "Laou",
+    "name": "Oued Laou",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2320,
+    "ref": "MRZG",
+    "name": "Oued merzeg-dar bouaza",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2300,
+    "ref": "Oued Rman",
+    "name": "Oued Rman- sidi kacem",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2341,
+    "ref": "Ouedzm",
+    "name": "Oued zem",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 229,
+    "ref": "OUJ",
+    "name": "Oujda",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1777,
+    "ref": "Abbo",
+    "name": "Oulad Abbou-Berrchid",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2042,
+    "ref": "aissan",
+    "name": "OULAD AISSA-nador",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1603,
+    "ref": "Ayad",
+    "name": "Oulad Ayad",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2337,
+    "ref": "ayb",
+    "name": "Oulad Ayoub - Fquih Ben Salah",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1584,
+    "ref": "Berhil",
+    "name": "Oulad Berhil",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2293,
+    "ref": "rahma",
+    "name": "Oulad bourahma-sidi yahya",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2051,
+    "ref": "brhmm",
+    "name": "Oulad brahim-taroudant",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1581,
+    "ref": "Dahou",
+    "name": "Oulad Dahou",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1745,
+    "ref": "Hadn",
+    "name": "Oulad Hamdane-El Jadida",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2020,
+    "ref": "hmm",
+    "name": "Oulad Hammou-fes",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2124,
+    "ref": "HSSN",
+    "name": "Oulad hassoun-marrakech",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1541,
+    "ref": "jerrar",
+    "name": "oulad jerrar-Tiznit",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2090,
+    "ref": "KHLLLF",
+    "name": "Oulad Khallouf -Kelaâ des Sraghna",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1743,
+    "ref": "brek",
+    "name": "Oulad M barek-Beni Mellal",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2059,
+    "ref": "oldmhla",
+    "name": "oulad mhela-taroudant",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2338,
+    "ref": "RBIAA",
+    "name": "Oulad Rbiâa - Fquih Ben Salah",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1612,
+    "ref": "Said",
+    "name": "Oulad Said-Beni Mellal",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1682,
+    "ref": "Sad",
+    "name": "Oulad Said-settat",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1892,
+    "ref": "BSSK",
+    "name": "Oulad Salah-bouskoura",
+    "deliveredPrice": 35,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2067,
+    "ref": "sbaita",
+    "name": "Oulad Sbaita-assilah",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2019,
+    "ref": "tyb",
+    "name": "Oulad Tayeb-fes",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 956,
+    "ref": "OULDTAIMA",
+    "name": "Oulad Teima",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2056,
+    "ref": "oldtrn",
+    "name": "oulad terna-taroudant",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2100,
+    "ref": "oldych",
+    "name": "Oulad Yaïch-chichaoua",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1609,
+    "ref": "Zmam",
+    "name": "Oulad Zmam - Beni-Mellal",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2332,
+    "ref": "ABDL",
+    "name": "Ouled abdellah",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2321,
+    "ref": "AZZOUZ",
+    "name": "Ouled Azzouz-dar bouaza",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1637,
+    "ref": "RAHM",
+    "name": "OULED BEN RAHMOUN",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1672,
+    "ref": "oldb",
+    "name": "Ouled Boutabet",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2158,
+    "ref": "dlim",
+    "name": "Ouled dlim - marrakech",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2327,
+    "ref": "driss",
+    "name": "Ouled driss",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1744,
+    "ref": "Msa",
+    "name": "Ouled Moussa-Beni Mellal",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2325,
+    "ref": "rguiaa",
+    "name": "Ouled rguiaa",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2068,
+    "ref": "riahi",
+    "name": "Ouled riahi-assilah",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2041,
+    "ref": "SLMD",
+    "name": "OULED SALEM-NADOR",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1986,
+    "ref": "OMAZZ",
+    "name": "OUM AZZA",
+    "deliveredPrice": 40,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1869,
+    "ref": "ouagha",
+    "name": "ounagha",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2245,
+    "ref": "ounaga",
+    "name": "Ounagha-safi",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1631,
+    "ref": "OuriK",
+    "name": "Ourika-VILLE",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1944,
+    "ref": "ourtzagh",
+    "name": "ourtzagh - taounate",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1628,
+    "ref": "Haj",
+    "name": "Outat El Haj",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2301,
+    "ref": "outitba",
+    "name": "outitba-sidi kacem",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1867,
+    "ref": "ozioa",
+    "name": "ouzioua",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1621,
+    "ref": "David",
+    "name": "Plage David-Bouznika",
+    "deliveredPrice": 35,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2036,
+    "ref": "pblw",
+    "name": "POBLAW-nador",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2045,
+    "ref": "bstn",
+    "name": "Quartier Al Boustane-nador",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2157,
+    "ref": "qtr",
+    "name": "Quetara- marrakech",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1984,
+    "ref": "RABT",
+    "name": "Rabat",
+    "deliveredPrice": 35,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2136,
+    "ref": "rsain",
+    "name": "Ras El Ain – Youssoufia",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2233,
+    "ref": "ainras",
+    "name": "Ras El Ain-settat",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2118,
+    "ref": "BRKMA",
+    "name": "Ras El Ma-berkan",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1454,
+    "ref": "Ras",
+    "name": "Ras El Ma-FES",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2261,
+    "ref": "rasoum",
+    "name": "Ras Oum Lile-tantan",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1972,
+    "ref": "TBD",
+    "name": "Ras Tabouda",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1968,
+    "ref": "rbtkh",
+    "name": "Ribate El Kheir",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 619,
+    "ref": "RICH-",
+    "name": "RICHE-02",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 0
+  },
+  {
+    "id": 1250,
+    "ref": "RIS",
+    "name": "RISSANI VILLE",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1314,
+    "ref": "ROM",
+    "name": "ROMMANI VILLE",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1860,
+    "ref": "Roua",
+    "name": "Rouadi-Al Hoceima",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2030,
+    "ref": "rss",
+    "name": "ROUISSI-nador",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1762,
+    "ref": "SADII",
+    "name": "SAAIDIA",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 61,
+    "ref": "SFI",
+    "name": "Safi",
+    "deliveredPrice": 40,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2063,
+    "ref": "salama",
+    "name": "Salama-ksar el kbir",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1982,
+    "ref": "SALE",
+    "name": "SALE",
+    "deliveredPrice": 35,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1983,
+    "ref": "SLEJ",
+    "name": "Sale El Jadida",
+    "deliveredPrice": 35,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2101,
+    "ref": "samba",
+    "name": "Samba-chichaoua",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2270,
+    "ref": "snhj",
+    "name": "Sanhaja-sefrou",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 780,
+    "ref": "SBY",
+    "name": "Sbaa Ayoune",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2134,
+    "ref": "Sbiaat",
+    "name": "Sbiaat – Youssoufia",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1545,
+    "ref": "grd",
+    "name": "Sebt El Guerdane",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 439,
+    "ref": "SBT",
+    "name": "SEBT GZOULA",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2027,
+    "ref": "jhjh",
+    "name": "Sebt Jahjouhe-meknes",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2071,
+    "ref": "sbtmlh",
+    "name": "sebt malha-chefchaouen",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2286,
+    "ref": "bouaziz",
+    "name": "Sebt Oulad Bouaziz-jadida",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2284,
+    "ref": "douib",
+    "name": "Sebt Oulad Douib-jadida",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1747,
+    "ref": "Saiss",
+    "name": "Sebt Saiss",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1914,
+    "ref": "sfr",
+    "name": "sefrou",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 900,
+    "ref": "ZGN",
+    "name": "Segangan-nador",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2076,
+    "ref": "sehoul",
+    "name": "sehoul-sale",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 893,
+    "ref": "SLWNE",
+    "name": "Selouane",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1651,
+    "ref": "Sts",
+    "name": "Settate",
+    "deliveredPrice": 40,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1973,
+    "ref": "stass",
+    "name": "Sfassif-khemisset",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1697,
+    "ref": "Mka",
+    "name": "Sid L Mokhtar",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1626,
+    "ref": "Zouine",
+    "name": "Sid Zouine",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 370,
+    "ref": "sda",
+    "name": "sidi aadi - azrou",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1746,
+    "ref": "Abbad",
+    "name": "Sidi Abbad",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2298,
+    "ref": "abdelaziz",
+    "name": "sidi abdelaziz-sidi slimane",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2089,
+    "ref": "slmnn",
+    "name": "Sidi Aissa Ben Slimane-kelaa des sraghna",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1607,
+    "ref": "SAissa",
+    "name": "Sidi Aissa-Beni-Mellal",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2006,
+    "ref": "KML",
+    "name": "Sidi Al Kamel-TAZI",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2024,
+    "ref": "hmdch",
+    "name": "Sidi ali ben hamdoch-jadida",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1992,
+    "ref": "BHR",
+    "name": "Sidi Allal El Bahraoui",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2002,
+    "ref": "sdal",
+    "name": "sidi Allal Tazi",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1772,
+    "ref": "aayc",
+    "name": "Sidi Ayache",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 935,
+    "ref": "BANOUR",
+    "name": "Sidi Bennour",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2312,
+    "ref": "Bettach",
+    "name": "Sidi bettach-bensliman",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1640,
+    "ref": "SiDBO",
+    "name": "Sidi Bou Othmane-VILLE",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2164,
+    "ref": "bhry",
+    "name": "sidi bouhriya-berkane",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2248,
+    "ref": "Bousbar",
+    "name": "Sidi Bousbar-Ouazzane",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1563,
+    "ref": "Bouzid",
+    "name": "Sidi Bouzid-EL JADIDA",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1767,
+    "ref": "Bosf",
+    "name": "Sidi Bouzid-SAFI",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1735,
+    "ref": "Chik",
+    "name": "Sidi Chiker",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2138,
+    "ref": "SCHIKER",
+    "name": "Sidi Chiker – Youssoufia",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2141,
+    "ref": "sdaaid",
+    "name": "sidi el aidi-berrchid",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1941,
+    "ref": "mkhf",
+    "name": "sidi el makhfi - taounate",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1638,
+    "ref": "Ghia",
+    "name": "Sidi Ghiat",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1783,
+    "ref": "Haja",
+    "name": "Sidi Hajjaj-Berrchid",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1419,
+    "ref": "sbit",
+    "name": "sidi hajjaj-casa",
+    "deliveredPrice": 35,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1447,
+    "ref": "Hara",
+    "name": "Sidi Harazem",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1826,
+    "ref": "SFNI",
+    "name": "SIDI IFNI-VILLE",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2336,
+    "ref": "JAB",
+    "name": "Sidi Jaber - Fquih Ben Salah",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 457,
+    "ref": "SDK",
+    "name": "SIDI KACEM",
+    "deliveredPrice": 40,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1798,
+    "ref": "KAML",
+    "name": "SIDI KAML",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1124,
+    "ref": "Kaouki",
+    "name": "Sidi Kaouki-ESSOUIRA",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1899,
+    "ref": "YMN",
+    "name": "Sidi lyamani-ASILAH",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1897,
+    "ref": "ussa",
+    "name": "Sidi Moussa Ben Ali",
+    "deliveredPrice": 40,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1896,
+    "ref": "Majd",
+    "name": "Sidi Moussa El Majdoub",
+    "deliveredPrice": 40,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2050,
+    "ref": "SDMOUSSA",
+    "name": "Sidi moussa lhamri-TAROUDANT",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1866,
+    "ref": "aaziz",
+    "name": "sidi ouaaziz",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 731,
+    "ref": "SDR",
+    "name": "Sidi Rahhal",
+    "deliveredPrice": 35,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2249,
+    "ref": "Redouane",
+    "name": "Sidi Redouane-Ouazzane",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 463,
+    "ref": "SDS",
+    "name": "SIDI SLIMAN",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1657,
+    "ref": "Tai",
+    "name": "Sidi Taibi",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2011,
+    "ref": "SDYH",
+    "name": "sidi yahia elgharb",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1998,
+    "ref": "YHYZ",
+    "name": "Sidi Yahya Zaer",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 942,
+    "ref": "SIDIBIBI",
+    "name": "Sidi-Bibi",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2018,
+    "ref": "skht",
+    "name": "Skhinate-fes",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1997,
+    "ref": "SKH",
+    "name": "SKHIRAT",
+    "deliveredPrice": 35,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1019,
+    "ref": "SKHOR",
+    "name": "Skhour Rehamna",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1812,
+    "ref": "Skoura",
+    "name": "Skoura-Ouarzazate",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1811,
+    "ref": "Smimou",
+    "name": "Smimou - Essaouira",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2064,
+    "ref": "sndl",
+    "name": "snadla-ksar el kbir",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1644,
+    "ref": "Soui",
+    "name": "Souihla-VILLE",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 445,
+    "ref": "SRI",
+    "name": "Souiria آسفي",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1928,
+    "ref": "skhd",
+    "name": "Souk al had Ouazzane",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2230,
+    "ref": "hadold",
+    "name": "Souk El Had Oulad Jelloul-souk larbaa",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1751,
+    "ref": "SKR",
+    "name": "SOUK LARBAA",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2272,
+    "ref": "SEBAH",
+    "name": "Souk Larbaa Sebah (Skhirat)",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1885,
+    "ref": "sklgr",
+    "name": "Souk lgor-meknes",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2003,
+    "ref": "SKLH",
+    "name": "SOUK LHAD ALLAL TAZI",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2302,
+    "ref": "souk lhad",
+    "name": "Souk Lhad-sidi kacem",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1356,
+    "ref": "Nemma",
+    "name": "Souk Sebt Oulad Nemma",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2228,
+    "ref": "tlatt",
+    "name": "Souk Tlat Gharb-souk larbaa",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1927,
+    "ref": "skou",
+    "name": "Souk Tlata Tanquoub Ouazzane",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2008,
+    "ref": "SKTL",
+    "name": "Souk Tlet El Gharb",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1924,
+    "ref": "STHT",
+    "name": "STEHAT-OUED LAOU",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2004,
+    "ref": "SWSY",
+    "name": "SWASIYIN ALAL TAZI",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2191,
+    "ref": "tchrk",
+    "name": "Tacharouk-casablanca",
+    "deliveredPrice": 20,
+    "returnedPrice": 0,
+    "refusedPrice": 0
+  },
+  {
+    "id": 1877,
+    "ref": "tdrt",
+    "name": "Taddart-taza",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2194,
+    "ref": "tftcht",
+    "name": "Tafetachte-essaouira",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1793,
+    "ref": "Tafg",
+    "name": "Tafoughalt",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1540,
+    "ref": "Tafra",
+    "name": "Tafraoute",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1979,
+    "ref": "TAFRIST",
+    "name": "Tafrsit-DRIOUCH",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2206,
+    "ref": "TGNT",
+    "name": "TAGANT-guelmim",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1547,
+    "ref": "Tagh",
+    "name": "Taghazout",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2204,
+    "ref": "TGHJT",
+    "name": "Taghjijt-guelmim",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2078,
+    "ref": "Taghzot",
+    "name": "Taghzot- tinghir ville",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1703,
+    "ref": "Tagm",
+    "name": "Tagmout-tata",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1668,
+    "ref": "Tagn",
+    "name": "Tagounite‬-zagora",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1901,
+    "ref": "THDRT",
+    "name": "Tahadart - ASILAH",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1633,
+    "ref": "Tahan",
+    "name": "Tahanaout-VILLE",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1931,
+    "ref": "thsk",
+    "name": "tahar souk - TAOUNATE",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1875,
+    "ref": "th",
+    "name": "tahla",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1769,
+    "ref": "Tali",
+    "name": "Taliouine",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1871,
+    "ref": "Talmst",
+    "name": "Talmest",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2244,
+    "ref": "talmest",
+    "name": "talmest-safi",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2196,
+    "ref": "tlsnt",
+    "name": "Talsinnt",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2012,
+    "ref": "izdr",
+    "name": "Tamait Izder-agadir",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2057,
+    "ref": "tmlkt",
+    "name": "tamaloukt-taroudant",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1810,
+    "ref": "Tamanar",
+    "name": "Tamanar-Essaouira",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2273,
+    "ref": "Tamanart",
+    "name": "Tamanart-tata",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1559,
+    "ref": "Tama",
+    "name": "Tamansourt-Marrakech",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 409,
+    "ref": "TM",
+    "name": "TAMARIS",
+    "deliveredPrice": 35,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1667,
+    "ref": "Tag",
+    "name": "Tamegroute-zagora",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1757,
+    "ref": "Taml",
+    "name": "Tamellalt",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1647,
+    "ref": "Tames",
+    "name": "Tamesluht- VILLE",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1994,
+    "ref": "TMSN",
+    "name": "TAMESNA-TEMARA",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1579,
+    "ref": "Tamrag",
+    "name": "Tamraght",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1548,
+    "ref": "Tamr",
+    "name": "Tamraght-Agadir",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2122,
+    "ref": "Tamri",
+    "name": "Tamri-agadir",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1759,
+    "ref": "Tamzt",
+    "name": "Tamzmout zagora",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1949,
+    "ref": "TANAT",
+    "name": "TANANTE-AZILAL",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2260,
+    "ref": "Tanaqob",
+    "name": "Tanaqob-Ouazzane",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2161,
+    "ref": "tnd",
+    "name": "Tandit-outat elhaj",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 289,
+    "ref": "TGR",
+    "name": "Tanger",
+    "deliveredPrice": 35,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1742,
+    "ref": "Tang",
+    "name": "Tanougha-Beni Mellal",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1790,
+    "ref": "TANT",
+    "name": "TANTAN",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2044,
+    "ref": "TMAA",
+    "name": "TAOUIMA-NADOR",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1915,
+    "ref": "taoun",
+    "name": "taounate",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1874,
+    "ref": "trt",
+    "name": "Taourirt",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1835,
+    "ref": "tar",
+    "name": "Tarfaya ville",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1691,
+    "ref": "tagu",
+    "name": "targuist",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2221,
+    "ref": "trmch",
+    "name": "Tarmoucht-boumalne dades",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 382,
+    "ref": "TR",
+    "name": "Taroudant",
+    "deliveredPrice": 40,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2095,
+    "ref": "tsswt",
+    "name": "Tassawt-kelaa des sraghna",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1635,
+    "ref": "Tassoul",
+    "name": "Tassoultant-VILLE",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1696,
+    "ref": "TTA",
+    "name": "Tata",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2289,
+    "ref": "tawarii",
+    "name": "tawarii- Sidi Yahya",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 808,
+    "ref": "TWJT",
+    "name": "TAWJTAT",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1872,
+    "ref": "TZV",
+    "name": "TAZA-VILLE",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1758,
+    "ref": "Tarin",
+    "name": "Tazarine",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2055,
+    "ref": "tzmrt",
+    "name": "tazmourt-taroudant",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1704,
+    "ref": "Tazn",
+    "name": "Taznakht",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1993,
+    "ref": "TMRA",
+    "name": "TEMARA",
+    "deliveredPrice": 35,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2128,
+    "ref": "tmsan",
+    "name": "temsamane-Driouch",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1576,
+    "ref": "Tems",
+    "name": "Temsia-agadir",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2229,
+    "ref": "Temsia",
+    "name": "Temsia(Ait Moussa)",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1653,
+    "ref": "Ter",
+    "name": "Teroual - Ouazzane",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 313,
+    "ref": "TET",
+    "name": "Tetouan",
+    "deliveredPrice": 35,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1748,
+    "ref": "Tids",
+    "name": "Tidas-Khemisset",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1278,
+    "ref": "Tif",
+    "name": "Tiflet Ville",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2145,
+    "ref": "tfnt",
+    "name": "Tifnit-agadir",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1719,
+    "ref": "Tighas",
+    "name": "Tighassaline ville",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2207,
+    "ref": "tghrt",
+    "name": "TIGHIRT-tiznit",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2084,
+    "ref": "TGHM",
+    "name": "TIGHMI-tiznit",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1716,
+    "ref": "Tiki",
+    "name": "Tikiouine",
+    "deliveredPrice": 35,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1721,
+    "ref": "TMHD",
+    "name": "Timahdite",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2281,
+    "ref": "timdline",
+    "name": "Timdline-ouarzazate",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2205,
+    "ref": "tml",
+    "name": "TIMOLAY-guelmim",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1740,
+    "ref": "Tim",
+    "name": "Timoulilt-Béni Mellal",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1582,
+    "ref": "TiN",
+    "name": "Tin Mansour",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2066,
+    "ref": "tndfl",
+    "name": "Tindafel-assilah",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1293,
+    "ref": "Tine",
+    "name": "Tinejdad Ville",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1475,
+    "ref": "Tingi",
+    "name": "Tinghir ville",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1907,
+    "ref": "Tio",
+    "name": "Tioughza",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1940,
+    "ref": "tissa",
+    "name": "tissa - taounate",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1698,
+    "ref": "Tiss",
+    "name": "Tissint-tata",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 478,
+    "ref": "TTM",
+    "name": "TIT MELLIL",
+    "deliveredPrice": 30,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1864,
+    "ref": "nisly",
+    "name": "tizi nisly-Beni Mellal",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1879,
+    "ref": "TZO",
+    "name": "Tizi Ousli",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 376,
+    "ref": "TZ",
+    "name": "TIZNIT",
+    "deliveredPrice": 40,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1976,
+    "ref": "TZTO",
+    "name": "Tiztotine-DRIOUCH",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2212,
+    "ref": "tkmst",
+    "name": "Tkemast-tinghir",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1592,
+    "ref": "Bouari",
+    "name": "Tlat Bouaris",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2074,
+    "ref": "ghnmit",
+    "name": "Tlat lghnimiyin-berrchid",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1738,
+    "ref": "fini",
+    "name": "Tlat Loulad-fini",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 1
+  },
+  {
+    "id": 2257,
+    "ref": "tlensen",
+    "name": "Tlensen-tantan",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1947,
+    "ref": "hnch",
+    "name": "Tlet El Hanchane",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1591,
+    "ref": "Tleta",
+    "name": "Tleta Bouguedra",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1834,
+    "ref": "tbkh",
+    "name": "Tnin beni khelloug-settat",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1936,
+    "ref": "onjel",
+    "name": "tnin beni onjel - taounate",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1557,
+    "ref": "GHIATE",
+    "name": "TNIN EL GHIATE-SAFI",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2103,
+    "ref": "tnnjnan",
+    "name": "Tnin jnan bih-chichaoua",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1650,
+    "ref": "Chto",
+    "name": "Tnine Chtouka el jadida",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1590,
+    "ref": "harbia",
+    "name": "Tnine Gharbia",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1577,
+    "ref": "tohm",
+    "name": "tohmo agadir",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2049,
+    "ref": "tndt",
+    "name": "Toundout-OUARZAZET",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1963,
+    "ref": "Tunf",
+    "name": "Tounfite-Midelt",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2276,
+    "ref": "Tskmoudin",
+    "name": "Tskmoudin-tata",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2288,
+    "ref": "twiza",
+    "name": "twiza-Sidi Kacem",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2280,
+    "ref": "wdmlh",
+    "name": "Wad Lmalh-ouarzazate",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1960,
+    "ref": "wdmrs",
+    "name": "Wad lmarssa",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1957,
+    "ref": "wd",
+    "name": "Wadalyane_ksar sghir",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 970,
+    "ref": "wld",
+    "name": "Walidia",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2086,
+    "ref": "wrgi",
+    "name": "wargi-kelaa sraghna",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1891,
+    "ref": "wsln",
+    "name": "wislan-meknes",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2009,
+    "ref": "wldm",
+    "name": "Wlad amer-ALAL TAZI",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1855,
+    "ref": "Ghnem",
+    "name": "Wlad Ghanem",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1887,
+    "ref": "sid",
+    "name": "Wlad sidi yhya-meknes",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1888,
+    "ref": "slim",
+    "name": "wlad slim-meknes",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1985,
+    "ref": "YSSF",
+    "name": "Youssoufia-RABAT",
+    "deliveredPrice": 35,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2133,
+    "ref": "yssfia",
+    "name": "youssoufia-ville",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1829,
+    "ref": "VZag",
+    "name": "Zag-VILLE",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1033,
+    "ref": "ZGO",
+    "name": "ZAGORA",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1594,
+    "ref": "Zaida",
+    "name": "Zaida",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2217,
+    "ref": "zaouia",
+    "name": "Zaouiat al bir-kelaa mgouna",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1970,
+    "ref": "ZBGR",
+    "name": "Zaouiat Bougrine",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1047,
+    "ref": "ZAKH",
+    "name": "Zaouiat Cheikh",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2313,
+    "ref": "zaouiet",
+    "name": "Zaouiat nouaceurr-nouaceur",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1568,
+    "ref": "Zaouit",
+    "name": "Zaouit Sidi Smail",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1536,
+    "ref": "DS",
+    "name": "zayou",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1962,
+    "ref": "ZGT",
+    "name": "ZGOUTA",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 2022,
+    "ref": "zda",
+    "name": "Zouada-LAARACHE",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1654,
+    "ref": "Zou",
+    "name": "Zoumi-Ouazzane",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  },
+  {
+    "id": 1937,
+    "ref": "zrizer",
+    "name": "zrizer - taounate",
+    "deliveredPrice": 45,
+    "returnedPrice": 0,
+    "refusedPrice": 10
+  }
+]

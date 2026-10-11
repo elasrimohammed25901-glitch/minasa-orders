@@ -1,0 +1,7 @@
+{
+  "name": "إنجاز - منصة إدارة طلبيات العمال والمدير",
+  "description": "منصة متكاملة لتنظيم طلبيات متجر الملابس النسائية (عبايات، حجابات، جلابيب) وتتبع حالة الإنجاز لحظياً مع لوحة تحكم إحصائية، حساب الأرباح والعمولات، وتخزين سحابي.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
